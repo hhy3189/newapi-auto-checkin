@@ -1,8 +1,6 @@
 // 默认站点配置（首次安装时写入 storage）
 const DEFAULT_SITES = [
-  { domain: 'ai.xingyungept.cn', name: 'ai.xingyungept.cn', enabled: true },
-  { domain: 'lx.lxsummer.cloud', name: 'lx.lxsummer.cloud', enabled: true },
-  { domain: 'ccll.xyz', name: 'ccll.xyz', enabled: true }
+  { domain: 'test.com', name: 'test.com', enabled: true }
 ];
 
 // 全局配置

@@ -57,11 +57,7 @@
 
 ## 支持的站点
 
-所有使用 New API 平台且支持 linux.do OAuth 登录的站点，包括但不限于：
-
-- ai.xingyungept.cn
-- lx.lxsummer.cloud
-- ccll.xyz
+所有使用 New API 平台且支持 linux.do OAuth 登录的站点。
 
 添加新站点时，只需输入域名即可，扩展会自动配置签到接口。
 
